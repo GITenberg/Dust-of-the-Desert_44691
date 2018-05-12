@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '42875'
     url: http://www.gutenberg.org/2009/agents/42875
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44691#Dust-of-the-Desert
 gutenberg_issued: '2014-01-17'
 gutenberg_type: Text
 identifiers:
